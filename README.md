@@ -1,2 +1,4 @@
 # gweccentricity_corfu_2026
-Material related to the workshop "Binary compact objects on eccentric orbits and their gravitational-wave signatures", Corfu, Greece, September 2026
+
+This repository contains archival material from the workshop:
+https://sites.google.com/unimib.it/gweccentricity
