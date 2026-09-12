@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Calibri';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('calibri-italic-400.woff2') format('truetype');
+}
+@font-face {
+  font-family: 'Calibri';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('calibri-italic-700.woff2') format('truetype');
+}
+@font-face {
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('calibri-normal-400.woff2') format('truetype');
+}
+@font-face {
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('calibri-normal-700.woff2') format('truetype');
+}

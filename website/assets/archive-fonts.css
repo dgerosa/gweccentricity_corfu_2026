@@ -1,0 +1,167 @@
+/* Locally bundled copies of the Google fonts used by the original site. */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("open-sans-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("open-sans-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("open-sans-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("oswald-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Google Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("google-sans-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Google Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("google-sans-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("roboto-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("roboto-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("roboto-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("roboto-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("source-code-pro-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("source-code-pro-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Calibri";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("calibri-italic-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Calibri";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("calibri-italic-700.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("calibri-normal-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("calibri-normal-700.woff2") format("woff2");
+}
+
+/* Google Sites normally reveals the desktop navigation after its JavaScript
+   finishes measuring the header. The archive has no active site scripts, so
+   keep that navigation visible from the initial static HTML instead. */
+#WDxLfe.plFg0c {
+  visibility: visible !important;
+}
+
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("oswald-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("oswald-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("oswald-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("oswald-latin.woff2") format("woff2");
+}
